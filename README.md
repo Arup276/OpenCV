@@ -1,7 +1,7 @@
 # OpenCV
 openCV -python is a python library use for solving computer vision problem.
 
-# Here we are create a motion detector which will detect the objects came front of the camera and add a rectangular box around it.
+# Here we created a motion detector which will detect the objects came front of the camera and add a rectangular box around it.
 
 # How it's work?
 its simple.
